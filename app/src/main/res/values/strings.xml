@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Momondo</string>
+    <string name="error_unknown">Error!</string>
+    <string name="error_no_internet_connection">No Internet Connection!</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="price">Price: </string>
+    <string name="duration">Duration: </string>
+    <string name="flight_number">FlightNumber: </string>
+</resources>
