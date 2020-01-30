@@ -1,5 +1,5 @@
 # Momondo
-Fetch list of flights from Copenhagen to Paris from Momondo mock service
+Fetch list of Copenhagen to Paris flights from Momondo mock service
 
 :rocket: The speed of fetching data and showing them is super-fast in compare to the original app. :rocket:
 
